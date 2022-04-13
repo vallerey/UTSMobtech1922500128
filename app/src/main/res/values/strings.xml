@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1922500128 UTS MOBTECH</string>
+    <string name="kalkulator_grade_universitas_isb_atmaluhur">KALKULATOR GRADE UNIVERSITAS ISB ATMALUHUR</string>
+    <string name="absensi">Absensi</string>
+    <string name="tugas">Tugas</string>
+    <string name="uts">UTS</string>
+    <string name="uas">UAS</string>
+    <string name="hasil_nilai_akhir">HASIL NILAI AKHIR</string>
+</resources>
